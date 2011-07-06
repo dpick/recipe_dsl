@@ -1,0 +1,12 @@
+ingredient 8, 'ounces', 'elbow macaroni, cooked and drained'
+ingredient 4, 'cups', 'shredded sharp Chedder Cheese'
+ingredient 1, 'can', 'evaporated milk'
+ingredient 1, '1/2 cup', 'milk'
+ingredient 2, 'whole', 'eggs'
+ingredient 1, 'teaspoon', 'salt'
+ingredient 0.5, 'teaspoon', 'black pepper'
+
+step 1, 'Place the cooked macaroni in crockpot that has been sprayed with nonstick cooking spray'
+step 2, 'Add the remaining ingredents, all except 1 cup of the cheese, mix well'
+step 3, 'Sprinkle with the remaining 1 cup of cheese and then cover and cook on low setting for 5 to 6 hours or until the mixture is firm and golden around the edges'
+step 4, 'Do not remove the cover or stir until it has finished cooking'
